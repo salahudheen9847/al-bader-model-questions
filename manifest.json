@@ -1,0 +1,17 @@
+{
+  "updatedAt": "2026-10-25T08:35:00Z",
+  "papers": [
+    {
+      "id": "class-5_half_yearly_fiqh",
+      "classId": "class-5",
+      "examTerm": "half_yearly",
+      "subject": {
+        "malayalam": "ഫിഖ്ഹ്",
+        "english": "Fiqh",
+        "arabic": "الفقه"
+      },
+      "fileSize": "173 KB",
+      "pdfUrl": "https://cdn.jsdelivr.net/gh/salahudheen9847/al-bader-model-questions@main/papers/class-5/half_yearly/fiqh.pdf"
+    }
+  ]
+}
